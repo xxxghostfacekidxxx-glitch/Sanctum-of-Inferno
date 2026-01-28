@@ -1,3 +1,3 @@
-export interface Env {
-  MEMORY: KVNamespace;
+declare module 'cloudflare:test' {
+	interface ProvidedEnv extends Env {}
 }
