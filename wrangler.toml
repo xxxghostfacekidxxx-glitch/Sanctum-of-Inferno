@@ -1,4 +1,6 @@
 
+name = 'sanctum-of-inferno'
+
 name = 'risefromtheashes'
 main = "backend/risefromtheashes/index.js"
 compatibility_date = "2026-01-19"
