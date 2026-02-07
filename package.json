@@ -1,5 +1,5 @@
 {
-  "name": "ash-fall",
+  "name": "Sanctum-of-Inferno",
   "version": "1.0.0",
   "description": "- Static frontend served separately - Cloudflare Workers backend - `/message` = test endpoint - `/chat` = Miss Chaos AI - Memory stored in Cloudflare KV",
   "main": "index.js",
@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xxxghostfacekidxxx-glitch/Ash-Fall.git"
+    "url": "git+https://github.com/xxxghostfacekidxxx-glitch/Sanctum-of-Inferno.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/xxxghostfacekidxxx-glitch/Ash-Fall/issues"
+    "url": "https://github.com/xxxghostfacekidxxx-glitch/Sanctum-of-Inferno/issues"
   },
-  "homepage": "https://github.com/xxxghostfacekidxxx-glitch/Ash-Fall#readme",
+  "homepage": "https://github.com/xxxghostfacekidxxx-glitch/Sanctum-of-inferno#readme",
   "dependencies": {
     "@baseai/core": "^0.9.43"
   },
