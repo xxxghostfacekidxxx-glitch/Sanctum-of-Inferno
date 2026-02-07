@@ -9,6 +9,12 @@ binding = "MEMORY"
 id = "2eb4c3875662467b8f89d537bcd74535"
 
 [env.preview]
-name = "miss-chaos-backend-preview"
+name = "miss-chaos-backend"
 [observability]
 enabled = false
+
+name = 'Vite-react-template'
+
+name = 'miss-chaos'
+
+name = 'darkhalf'
